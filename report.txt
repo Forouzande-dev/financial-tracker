@@ -1,0 +1,110 @@
+FINAL REPORT: 
+Total income: 1800 
+Total expense: 190 
+Remaining: 1610 
+FINAL REPORT: 
+Total income: 1700 
+Total expense: 150 
+Remaining: 1550 
+
+----FINAL REPORT: 
+----Total income: 1559 
+Total expense: 300 
+Remaining: 1259 
+
+----NEW REPORT: 
+----Total income: 1100 
+Total expense: 120 
+Remaining: 980 
+
+----NEW REPORT: 
+----Total income: 1500 
+Total expense: 150 
+Remaining: 1350 
+
+----NEW REPORT: 
+----Total income: 1800 
+Total expense: 1200 
+Remaining: 600 
+
+----NEW REPORT: 
+----Total income: 900 
+Total expense: 300 
+Remaining: 600 
+Average income: 450.0Average expense: 150.0
+----NEW REPORT: 
+----Total income: 1200 
+Total expense: 510 
+Remaining: 690 
+Average income: 300.0
+Average expense: 170.0
+Biggest income: 500
+ Biggest expense: 300
+ 
+----NEW REPORT: 
+----Total income: 0 
+Total expense: 0 
+Remaining: 0 
+Average income: 0
+Average expense: 0
+Biggest income: 0
+ Biggest expense: 0
+ 
+----NEW REPORT: 
+----Total income: 0 
+Total expense: 0 
+Remaining: 0 
+Average income: 0
+Average expense: 0
+Biggest income: 0
+ Biggest expense: 0
+ 
+----NEW REPORT: 
+----Total income: 0 
+Total expense: 0 
+Remaining: 0 
+Average income: 0
+Average expense: 0
+Biggest income: 0
+ Biggest expense: 0
+ 
+----NEW REPORT: 
+----Total income: 3000 
+Total expense: 0 
+Remaining: 3000 
+Average income: 1500.0
+Average expense: 0
+Biggest income: 2000
+ Biggest expense: 0
+ 
+----NEW REPORT: 
+----Total income: 900 
+Total expense: 300 
+Average income: 450.0
+Average expense: 150.0
+Biggest income: 500
+ Biggest expense: 200
+ Remaining: 600 
+
+----FINAL REPORT: 
+----Total income: 3000 
+Total expense: 800 
+Average income: 1500.0
+Average expense: 400.0
+Biggest income: 2000
+ Biggest expense: 500
+ Remaining: 2200 
+----FINAL REPORT:----Total income: 2100 
+Total expense: 700 
+Average income: 1050.0
+Average expense: 350.0
+Biggest income: 2000
+ Biggest expense: 500
+ Remaining: 1400 ----FINAL REPORT:----
+Total income: 3000 
+Total expense: 900 
+Average income: 1500.0
+Average expense: 450.0
+Biggest income: 2000
+ Biggest expense: 500
+ Remaining: 2100 
