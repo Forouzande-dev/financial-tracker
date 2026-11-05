@@ -1,5 +1,8 @@
 
 
+# Financial Tracker - version 1.1
+
+
 def get_incomes():
     incomes = []
     
